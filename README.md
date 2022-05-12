@@ -5,7 +5,7 @@ A MelonJS made "Flappy Bird" clone.
 
 ![](http://i.imgur.com/Slbvt65.png)
 
-Play online at shreyasdeshmukh.github.io/clumsy-bird/
+Play online at https://shreyasdeshmukh.github.io/clumsy-bird/
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/ellisonleao/clumsy-bird/tree/gh-pages)
 
